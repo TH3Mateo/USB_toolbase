@@ -1,0 +1,10 @@
+Added Component: Designator=J1(FCI USB 10033526-N3212LF)
+Added Pin To Net: NetName=NetCP6_1 Pin=J1-1
+Added Pin To Net: NetName=D- Pin=J1-2
+Added Pin To Net: NetName=D+ Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-S
+Added Pin To Net: NetName=GND Pin=J1-S
+Added Pin To Net: NetName=GND Pin=J1-S
+Added Pin To Net: NetName=GND Pin=J1-S
+Added Member To Class: ClassName=STM32F1_board Member=Component J1 USB Micro
