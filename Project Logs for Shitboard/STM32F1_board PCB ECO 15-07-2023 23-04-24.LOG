@@ -1,0 +1,178 @@
+Added Component: Designator=C1(CAP FILM 0603_1608)
+Add component (AddParameter): Name = "CPAR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RLSHUNT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPAR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP FILM 0603_1608)
+Add component (AddParameter): Name = "CPAR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RLSHUNT"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RPAR"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RSER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10pF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP FILM 0603_1608)
+Added Component: Designator=C4(CAP FILM 0603_1608)
+Add component (AddParameter): Name = "VALUE"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP FILM 0603_1608)
+Add component (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP FILM 0603_1608)
+Add component (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=CP1(PAD_SQUARE)
+Added Component: Designator=CP2(PAD_SQUARE)
+Added Component: Designator=CP3(PAD_SQUARE)
+Added Component: Designator=CP4(PAD_SQUARE)
+Added Component: Designator=CP5(PAD_SQUARE)
+Added Component: Designator=CP6(PAD_SQUARE)
+Added Component: Designator=CP7(PAD_SQUARE)
+Added Component: Designator=CP8(PAD_SQUARE)
+Added Component: Designator=CP9(PAD_SQUARE)
+Added Component: Designator=D1(RES 0603_1608)
+Added Component: Designator=D2(RES 0603_1608)
+Added Component: Designator=D3(RES 0603_1608)
+Added Component: Designator=R1(SMD-0603-RES)
+Add component (AddParameter): Name = "DTEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "T_REL_LOCAL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K5"; VariantName = "[No Variations]"
+Added Component: Designator=R2(SMD-0603-RES)
+Add component (AddParameter): Name = "DTEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "T_REL_LOCAL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R3(SMD-0603-RES)
+Add component (AddParameter): Name = "DTEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "T_REL_LOCAL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(SMD-0603-RES)
+Add component (AddParameter): Name = "VALUE"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(SMD-0603-RES)
+Add component (AddParameter): Name = "VALUE"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(SMD-0603-RES)
+Add component (AddParameter): Name = "VALUE"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(SMD-0603-RES)
+Add component (AddParameter): Name = "VALUE"; Value = "100K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(SMD-0603-RES)
+Add component (AddParameter): Name = "VALUE"; Value = "100K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=RESET Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=CP1-1
+Added Pin To Net: NetName=SWDIO Pin=CP2-1
+Added Pin To Net: NetName=SWCLK Pin=CP3-1
+Added Pin To Net: NetName=ASYNC_SWO Pin=CP4-1
+Added Pin To Net: NetName=NetCP6_1 Pin=CP6-1
+Added Pin To Net: NetName=3V3 Pin=CP7-1
+Added Pin To Net: NetName=NetC3_1 Pin=CP8-1
+Added Pin To Net: NetName=RESET Pin=CP9-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-S
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Add Pin To Net: Unknown Pin: Pin J2-9
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J4-2
+Add Pin To Net: Unknown Pin: Pin J4-3
+Add Pin To Net: Unknown Pin: Pin J4-4
+Add Pin To Net: Unknown Pin: Pin J4-5
+Add Pin To Net: Unknown Pin: Pin J4-6
+Add Pin To Net: Unknown Pin: Pin J4-7
+Add Pin To Net: Unknown Pin: Pin J4-8
+Add Pin To Net: Unknown Pin: Pin J4-9
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J5-2
+Add Pin To Net: Unknown Pin: Pin J5-3
+Add Pin To Net: Unknown Pin: Pin J5-4
+Add Pin To Net: Unknown Pin: Pin J5-5
+Add Pin To Net: Unknown Pin: Pin J5-6
+Add Pin To Net: Unknown Pin: Pin J5-7
+Add Pin To Net: Unknown Pin: Pin J5-8
+Add Pin To Net: Unknown Pin: Pin J5-9
+Added Pin To Net: NetName=D+ Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetC1_2 Pin=R2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R3-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-2
+Added Pin To Net: NetName=SWDIO Pin=R4-1
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=SWCLK Pin=R5-1
+Added Pin To Net: NetName=3V3 Pin=R5-2
+Added Pin To Net: NetName=RESET Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=BOOT0 Pin=R7-1
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=BOOT1 Pin=R8-2
+Added Member To Class: ClassName=STM32F1_board Member=Component C1 Capacitor
+Added Member To Class: ClassName=STM32F1_board Member=Component C2 Capacitor
+Added Member To Class: ClassName=STM32F1_board Member=Component C3 =VALUE
+Added Member To Class: ClassName=STM32F1_board Member=Component C4 10uF
+Added Member To Class: ClassName=STM32F1_board Member=Component C5 100nF
+Added Member To Class: ClassName=STM32F1_board Member=Component C6 100nF
+Added Member To Class: ClassName=STM32F1_board Member=Component CP1 CONNECT_PAD
+Added Member To Class: ClassName=STM32F1_board Member=Component CP2 CONNECT_PAD
+Added Member To Class: ClassName=STM32F1_board Member=Component CP3 CONNECT_PAD
+Added Member To Class: ClassName=STM32F1_board Member=Component CP4 CONNECT_PAD
+Added Member To Class: ClassName=STM32F1_board Member=Component CP5 CONNECT_PAD
+Added Member To Class: ClassName=STM32F1_board Member=Component CP6 CONNECT_PAD
+Added Member To Class: ClassName=STM32F1_board Member=Component CP7 CONNECT_PAD
+Added Member To Class: ClassName=STM32F1_board Member=Component CP8 CONNECT_PAD
+Added Member To Class: ClassName=STM32F1_board Member=Component CP9 CONNECT_PAD
+Added Member To Class: ClassName=STM32F1_board Member=Component D1 =VALUE
+Added Member To Class: ClassName=STM32F1_board Member=Component D2 =VALUE
+Added Member To Class: ClassName=STM32F1_board Member=Component D3 =VALUE
+Add Class Member: Failed to add class member : Component J1 USB Micro
+Add Class Member: Failed to add class member : Component J2 9 Pin
+Add Class Member: Failed to add class member : Component J3 9 Pin
+Add Class Member: Failed to add class member : Component J4 9 Pin
+Add Class Member: Failed to add class member : Component J5 9 Pin
+Added Member To Class: ClassName=STM32F1_board Member=Component R1 Resistor
+Added Member To Class: ClassName=STM32F1_board Member=Component R2 Resistor
+Added Member To Class: ClassName=STM32F1_board Member=Component R3 Resistor
+Added Member To Class: ClassName=STM32F1_board Member=Component R4 10K
+Added Member To Class: ClassName=STM32F1_board Member=Component R5 10K
+Added Member To Class: ClassName=STM32F1_board Member=Component R6 10K
+Added Member To Class: ClassName=STM32F1_board Member=Component R7 100K
+Added Member To Class: ClassName=STM32F1_board Member=Component R8 100K
