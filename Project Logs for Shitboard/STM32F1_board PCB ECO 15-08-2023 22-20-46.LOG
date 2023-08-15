@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=5V Pin=CP10-1
+Removed Pin From Net: NetName=3V3 Pin=CP11-1
+Removed Member From Class: ClassName=STM32F1_board Member=CP10
+Removed Member From Class: ClassName=STM32F1_board Member=CP11
