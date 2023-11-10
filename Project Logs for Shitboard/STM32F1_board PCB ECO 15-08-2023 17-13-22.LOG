@@ -1,6 +1,0 @@
-Added Component: Designator=CP10(PAD_SQUARE)
-Added Component: Designator=CP11(PAD_SQUARE)
-Added Pin To Net: NetName=5V Pin=CP10-1
-Added Pin To Net: NetName=3V3 Pin=CP11-1
-Added Member To Class: ClassName=STM32F1_board Member=Component CP10 CONNECT_PAD
-Added Member To Class: ClassName=STM32F1_board Member=Component CP11 CONNECT_PAD
